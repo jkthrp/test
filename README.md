@@ -1,3 +1,3 @@
 # test
-[Launch](unitydl://mylink)
-[Launch with Parameter](unitydl://mylink?parameter)
+<unitydl://mylink>
+<unitydl://mylink?parameter>
